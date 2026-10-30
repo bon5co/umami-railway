@@ -1,5 +1,9 @@
 # umami-railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/umami-v320-or-google-analytics-alternati?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
+**Deploy on Railway:** [Umami template](https://railway.com/deploy/umami-v320-or-google-analytics-alternati?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
 Railway-tuned [Umami](https://umami.is) 3.2.0 image.
 
 Two changes over `umamisoftware/umami:3.2`, both of which exist because of how
